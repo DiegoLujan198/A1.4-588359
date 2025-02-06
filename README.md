@@ -36,7 +36,13 @@ decímetro cúbico.
 
  “sulfatos”. Gramos de sulfato de potasio por decímetro cúbico.
 
+
  “alcohol”. Volúmen percentil de alcohol en el vino.
 
  “calidad”. Mediana de la calidad otorgada por al menos tres catadores, en escala del 0
 (muy malo) al 10 (excelente)
+
+
+- [HTML](./A1.4_588359.html)
+- [Jupyter Notebook](./A1.4_588359.ipynb)
+- [Base de Datos](./A1.3%20NASA.csv)
